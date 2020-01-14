@@ -2,7 +2,7 @@ const number_of_imgs = 6;
 const image_display_time = 3000;
 
 function updateImage(index) {
-	var str = "img" + index + ".jpg";
+	var str = "images/img" + index + ".jpg";
 	document.getElementById("carousel").setAttribute("src", str);
 	console.log(str);
 }
