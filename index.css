@@ -1,4 +1,8 @@
 #carousel {
-	max-width: 50%;
+	max-width: 25%;
 	margin: auto;
+}
+
+body {
+	font-family: Roboto, sans-serif;
 }
